@@ -5,7 +5,7 @@
   "main": "cmfmradiotest.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node cmfmradiotest.js",
+    "start": "node cmfmradiotest.js"
   },
   "engines": {
     "node": "8.4.0"
