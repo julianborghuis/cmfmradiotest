@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node cmfmradiotest.js",
-    "install": "node-gyp rebuild"
   },
   "engines": {
     "node": "8.4.0"
