@@ -1,0 +1,20 @@
+{
+  "name": "cmfmradio",
+  "version": "0.0.1",
+  "description": "CMFM! is een radiostation voor jong en oud!",
+  "main": "cmfmradiotest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cmfmradiotest.js",
+    "install": "node-gyp rebuild"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "dependencies": {
+  "eris": "^0.9.0",
+  "snekfetch": "^4.0.4",
+  "express": "^4.16.4"
+  },
+  "author": "Julian"
+}
